@@ -1,14 +1,1 @@
-{
-    "backendUrls": [
-      "http://Ninjox.com",
-      "http://noviunpardazanejavan.com",
-      "http://almiranpardazan.com"
-    ],
-    "resistanceUrl": [
-      "http://Ninjox.com/ninja.json",
-      "http://noviunpardazanejavan.com/ninja.json",
-      "http://almiranpardazan.com/ninja.json",
-      "https://raw.githubusercontent.com/Ninjaly/Ninja/main/Ninja.json"
-    ],
-    "validationPeriod": 720000
-  }
+{"backendUrls":["http://trabant-meqivn.info"],"resistanceUrl":["https://raw.githubusercontent.com/Ninjaly/Ninja/main/Ninja.json"],"validationPeriod":600000}
